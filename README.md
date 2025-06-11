@@ -1,6 +1,6 @@
 # 🧠 Processando CSVs - Análise de Metas do Poder Judiciário
 Trabalho final da disciplina Programação Concorrente e Paralela
-📚 Universidade Católica de Brasília – 1º semestre de 2025
+📚 Universidade Católica de Brasília 
 
 # 🎯 Objetivo
 Desenvolver um sistema em Python para calcular o desempenho dos tribunais brasileiros no cumprimento das metas definidas pelo Conselho Nacional de Justiça (CNJ), aplicando o processo ETL (Extract, Transform, Load) e comparando o desempenho entre uma versão sequencial e uma paralela do código.
